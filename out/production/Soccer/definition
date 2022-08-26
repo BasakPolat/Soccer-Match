@@ -1,0 +1,6 @@
+The number of weeks is conditioned inside the while loop.
+here two string sets are defined. Then, a one-week encounter with the for loop was determined.
+ Which team will face which team, while loop has all the matches of the week,
+ in the for there is only one week's loop. For each while loop, the for is also renewed.
+In the if loop, the matches and pairings of the teams are determined.
+In the second if cycle, away matches are created.
